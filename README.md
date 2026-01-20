@@ -2,11 +2,9 @@ This is an affordable mini CNC mill built from Ender 3 parts. It’s suitable fo
  
 BOM: 
 1 x Ender 3 
-2 x Linear Rails 150mm 
-24 x M3x8
-16 x M5x40
-60 x M5x20
-4 x Brass Heat Set Insert M5
+2 x Linear Rails 150mm MGN12H (https://www.amazon.com/uxcell-Sliding-Carriage-Plastic-Printers/dp/B0D54L8LH4/ref=sr_1_3?crid=2L67633ZKRQF0&dib=eyJ2IjoiMSJ9.XEjW0aj8pquj2-ZzFJILSplALiRzrE2qwhHN_47kVf16XS2qjocrV-MU9fMnC0xTSUyngBknNySkz0wVfQAptKDQnzZnwk53gkCQ3s0tFfpohO1JFaxRDhXcvmuWv1cUZ6uPnWztn4W8meRDk_8y1hNRf8l5MM3KaVhj4R7t1khWxgjyfsicpWqrMCdQuLuNrlHZ9B9uy70MIZ1GZ5XHUz7ILo7cb9M1yF6jpGmX5jg.G6SqCyUasA6EnnCmxr760aIe5Xu4vrER5IgW10qOvds&dib_tag=se&keywords=mgn12h+150mm&qid=1768941822&sprefix=mgn12h+150mm%2Caps%2C150&sr=8-3)
+1 x screw assortment kit (https://www.amazon.com/Kadrick-Assortment-M2-M3-M4/dp/B0C2KPR7N9/ref=sr_1_1_sspa?crid=R401IOHPGWR9&dib=eyJ2IjoiMSJ9.61Bc6ZNu-pWq_ADTBVN1sLL7OUZ5fc1diTFkgOAVT4KY87e_EeV9D7XWdUKv8uIwhQHBqLQOZZERnK3vheVqfqosahGUiyXoSoIbRrezW4nfdxYiK1E4j4qYao_vlRqr8xUrvaNy_5vo-VlOXg_vN5vbnpdwDKI7FAzcA6DsPXukfSYCmLd_WfZjSnZtG5cpoyEtPL8KvDeXiT8k3-4MQ9x3xKUdaMt6Ll6VQm-sapw.yI3RoFV7R55la4V1Vo6YkIErpj_oVWozf8LfBpQ7KSg&dib_tag=se&keywords=m%2Bscrew%2Bassortment%2Bkit&qid=1768941911&sprefix=M%2Bscrew%2Ba%2Caps%2C239&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+1 x Brass asortment kit (www.amazon.com/Ktehloy-Threaded-Assortment-Printing-Components/dp/B0CLKDPN65/ref=sr_1_1_sspa?crid=XFHB8NH15RR5&dib=eyJ2IjoiMSJ9.kyKh_35Se-1vyfF6YI1lQ9NfnlwDYj31B35715WGYh0_wcElLySD4QlxGYa67A4zbfQLHKLw-3aWOnTrwFTchgSdANrFHU6cOo_pLm0Q0fromkuAeGFTpQkLqGq7MJ9XohIntf0GrCH7vS9RNBLN3fp99VCPiDK5R7orjrlCxnpNmETdNWyRHs0ry621X-dikpMzHlGj62bSGk6AsFu2QO_Q7_V51oBBjpDDUOYINBY.d2SGrV4bLQe21sQPQRVy1bnrc62viiE4kcBRparntdI&dib_tag=se&keywords=brass+heat+insert+assortment+kit&qid=1768942002&sprefix=brass+heat+insert+assortment+kit%2Caps%2C154&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 2 x Lead Screws 
 32 x M5 T-Nuts
 1 x Appropriate Spindle (I used an old Dremel, which I had lying around)

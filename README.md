@@ -2,11 +2,19 @@ This is an affordable mini CNC mill built from Ender 3 parts. It’s suitable fo
  
 BOM: 
 1 x Ender 3 
+
 2 x Linear Rails 150mm MGN12H
+
 1 x  Mscrew assortment kit 
+
 1 x Brass heat threaded insert assortment kit 
+
 32 x M5 T-Nuts
+
 1 x Appropriate Spindle (I used an old Dremel, which I had lying around)
+
 2 x ball bearings (I used ones that came on ender 3 tensioner)  
+
 2 x GT2 clip https://www.thingiverse.com/thing:2523813
+
 All 3d Printed Parts in CAD

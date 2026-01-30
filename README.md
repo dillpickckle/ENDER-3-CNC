@@ -30,6 +30,6 @@ BOM:
 
 2 x ball bearings (I used ones that came on ender 3 tensioner)  
 
-2 x GT2 clip https://www.thingiverse.com/thing:2523813
+2 x GT2 clip [File](https://www.thingiverse.com/thing:2523813)
 
 All 3d Printed Parts in CAD

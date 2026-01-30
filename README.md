@@ -2,7 +2,7 @@ This is an affordable mini CNC mill built from Ender 3 parts. It’s suitable fo
 
 
 Wiring Diagram 
-[Wiring]!(https://github.com/dillpickckle/ENDER-3-CNC/blob/main/Images/Wiring.png)
+![Wiring](https://github.com/dillpickckle/ENDER-3-CNC/blob/main/Images/Wiring.png)
 
 As you can see its pretty simple. Just connect the xyz ports to their respective motors and do the same with the endstops. Also make sure to connect the board to the ender power supply. 
 
